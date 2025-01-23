@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="files.RandomAccessTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-05T17:17:05" hostname="DESKTOP-8ABPD65" time="9.896">
+  <properties/>
+  <testcase name="testSortTriBytes" classname="files.RandomAccessTest" time="0.002"/>
+  <testcase name="testSortTriBytesExtended" classname="files.RandomAccessTest" time="2.887"/>
+  <testcase name="testSortBytesExtended" classname="files.RandomAccessTest" time="7.006"/>
+  <testcase name="testSortBytes" classname="files.RandomAccessTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

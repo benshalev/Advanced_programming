@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="files.TreasureHuntTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-05T17:17:05" hostname="DESKTOP-8ABPD65" time="0.04">
+  <properties/>
+  <testcase name="testFindTreasureDecoding" classname="files.TreasureHuntTest" time="0.015"/>
+  <testcase name="testFindTreasureReadPastMapEnd" classname="files.TreasureHuntTest" time="0.003"/>
+  <testcase name="testFindTreasureExtended" classname="files.TreasureHuntTest" time="0.02"/>
+  <testcase name="testFindTreasureReading" classname="files.TreasureHuntTest" time="0.002"/>
+  <system-out><![CDATA[Current Clue: 0
+Next Location: 14
+New Clue Read: 70645984599616
+Current Clue: 70645984599616
+Next Location: 21
+New Clue Read: 35486774009863
+Current Clue: 35486774009863
+Next Location: 28
+New Clue Read: 38707445892019
+Current Clue: 38707445892019
+Next Location: 35
+New Clue Read: 169478470097330
+Current Clue: 169478470097330
+Next Location: 42
+New Clue Read: 19670965737797
+Current Clue: 19670965737797
+Next Location: 49
+New Clue Read: 266083800752826
+Current Clue: 266083800752826
+Next Location: 56
+New Clue Read: 254314372413
+Current Clue: 254314372413
+Next Location: 63
+New Clue Read: 32552239668918
+Current Clue: 32552239668918
+Next Location: 70
+New Clue Read: 226037003672340
+Current Clue: 226037003672340
+Next Location: 77
+New Clue Read: 222288845572720
+Current Clue: 222288845572720
+Next Location: 84
+New Clue Read: 23999585531974
+Current Clue: 23999585531974
+Next Location: 91
+New Clue Read: 257197180986223
+Current Clue: 257197180986223
+Next Location: 98
+New Clue Read: 270141867800559
+Current Clue: 270141867800559
+Next Location: 105
+New Clue Read: 238211919771538
+Current Clue: 238211919771538
+Next Location: -1
+Treasure found! Clue: 105
+Current Clue: 0
+Next Location: 8184
+New Clue Read: 93458488360960
+Current Clue: 93458488360960
+Next Location: -1
+Treasure found! Clue: 8184
+Current Clue: 10001
+Next Location: 3104
+New Clue Read: 81670939987042
+Current Clue: 81670939987042
+Next Location: 1535
+New Clue Read: 2917695552404
+Current Clue: 2917695552404
+Next Location: 4141
+New Clue Read: 57476947112391
+Current Clue: 57476947112391
+Next Location: 906
+New Clue Read: 34772683594694
+Current Clue: 34772683594694
+Next Location: 6491
+New Clue Read: 36401669439530
+Current Clue: 36401669439530
+Next Location: 1975
+New Clue Read: 213904013178267
+Current Clue: 213904013178267
+Next Location: 6006
+New Clue Read: 85219369454922
+Current Clue: 85219369454922
+Next Location: 4247
+New Clue Read: 163808850010660
+Current Clue: 163808850010660
+Next Location: 1181
+New Clue Read: 218664461722304
+Current Clue: 218664461722304
+Next Location: 321
+New Clue Read: 150373458756482
+Current Clue: 150373458756482
+Next Location: 1247
+New Clue Read: 84213052303025
+Current Clue: 84213052303025
+Next Location: 6784
+New Clue Read: 279930230748424
+Current Clue: 279930230748424
+Next Location: 7289
+New Clue Read: 192826008158870
+Current Clue: 192826008158870
+Next Location: 6539
+New Clue Read: 158144300876768
+Current Clue: 158144300876768
+Next Location: 5665
+New Clue Read: 156176886563908
+Current Clue: 156176886563908
+Next Location: 2173
+New Clue Read: 102093018234929
+Current Clue: 102093018234929
+Next Location: 2304
+New Clue Read: 68633983530428
+Current Clue: 68633983530428
+Next Location: 7557
+New Clue Read: 261160567640976
+Current Clue: 261160567640976
+Next Location: 6001
+New Clue Read: 152196686673002
+Current Clue: 152196686673002
+Next Location: 8055
+New Clue Read: 80275487149602
+Current Clue: 80275487149602
+Next Location: 6207
+New Clue Read: 221957618863088
+Current Clue: 221957618863088
+Next Location: 4369
+New Clue Read: 182904972416301
+Current Clue: 182904972416301
+Next Location: 836
+New Clue Read: 115706105394688
+Current Clue: 115706105394688
+Next Location: 2561
+New Clue Read: 257039749361639
+Current Clue: 257039749361639
+Next Location: 2922
+New Clue Read: 231220965719976
+Current Clue: 231220965719976
+Next Location: 4057
+New Clue Read: 148715052712338
+Current Clue: 148715052712338
+Next Location: 2511
+New Clue Read: 251810573677289
+Current Clue: 251810573677289
+Next Location: 6344
+New Clue Read: 4343961916652
+Current Clue: 4343961916652
+Next Location: 5973
+New Clue Read: 24014005774016
+Current Clue: 24014005774016
+Next Location: 7489
+New Clue Read: 21756772205532
+Current Clue: 21756772205532
+Next Location: 5477
+New Clue Read: 17156549119663
+Current Clue: 17156549119663
+Next Location: 4642
+New Clue Read: 242210610291930
+Current Clue: 242210610291930
+Next Location: 1031
+New Clue Read: 60046225690477
+Current Clue: 60046225690477
+Next Location: 5380
+New Clue Read: 71585031699829
+Current Clue: 71585031699829
+Next Location: 2172
+New Clue Read: 51046509117464
+Current Clue: 51046509117464
+Next Location: 1129
+New Clue Read: 151065476560592
+Current Clue: 151065476560592
+Next Location: 4145
+New Clue Read: 75206223666292
+Current Clue: 75206223666292
+Next Location: 6477
+New Clue Read: 113183199965774
+Current Clue: 113183199965774
+Next Location: 7251
+New Clue Read: 176546883553981
+Current Clue: 176546883553981
+Next Location: 6324
+New Clue Read: 141140145682052
+Current Clue: 141140145682052
+Next Location: 573
+New Clue Read: 70577703395584
+Current Clue: 70577703395584
+Next Location: 3841
+New Clue Read: 268097666816012
+Current Clue: 268097666816012
+Next Location: 2613
+New Clue Read: 263345211719466
+Current Clue: 263345211719466
+Next Location: 6327
+New Clue Read: 3221258613799
+Current Clue: 3221258613799
+Next Location: 4906
+New Clue Read: 200225344958710
+Current Clue: 200225344958710
+Next Location: 7467
+New Clue Read: 154446223845010
+Current Clue: 154446223845010
+Next Location: 5327
+New Clue Read: 144530129856418
+Current Clue: 144530129856418
+Next Location: 1727
+New Clue Read: 269625229634430
+Current Clue: 269625229634430
+Next Location: 7203
+New Clue Read: 258354561387738
+Current Clue: 258354561387738
+Next Location: 7175
+New Clue Read: 157857923116941
+Current Clue: 157857923116941
+Next Location: 6884
+New Clue Read: 142800211893635
+Current Clue: 142800211893635
+Next Location: 2830
+New Clue Read: 264177395744067
+Current Clue: 264177395744067
+Next Location: 8014
+New Clue Read: 275886044586276
+Current Clue: 275886044586276
+Next Location: 5533
+New Clue Read: 179459982399020
+Current Clue: 179459982399020
+Next Location: 4629
+New Clue Read: 266832935152409
+Current Clue: 266832935152409
+Next Location: 2456
+New Clue Read: 272935272235908
+Current Clue: 272935272235908
+Next Location: 1341
+New Clue Read: 238045776530071
+Current Clue: 238045776530071
+Next Location: 4538
+New Clue Read: 81587336628204
+Current Clue: 81587336628204
+Next Location: 5205
+New Clue Read: 32448489086965
+Current Clue: 32448489086965
+Next Location: 7676
+New Clue Read: 93050894308582
+Current Clue: 93050894308582
+Next Location: 5691
+New Clue Read: 107825481965391
+Current Clue: 107825481965391
+Next Location: 8066
+New Clue Read: 22811283362160
+Current Clue: 22811283362160
+Next Location: 5009
+New Clue Read: 242629469611661
+Current Clue: 242629469611661
+Next Location: 5092
+New Clue Read: 89061958263904
+Current Clue: 89061958263904
+Next Location: 3489
+New Clue Read: 178467547027279
+Current Clue: 178467547027279
+Next Location: 1922
+New Clue Read: 127958961087015
+Current Clue: 127958961087015
+Next Location: 1322
+New Clue Read: 114549379304254
+Current Clue: 114549379304254
+Next Location: 4195
+New Clue Read: 91583718388210
+Current Clue: 91583718388210
+Next Location: 2927
+New Clue Read: 80721508562193
+Current Clue: 80721508562193
+Next Location: 7712
+New Clue Read: 86219783207164
+Current Clue: 86219783207164
+Next Location: 5701
+New Clue Read: 75102661983437
+Current Clue: 75102661983437
+Next Location: 2468
+New Clue Read: 205742560268188
+Current Clue: 205742560268188
+Next Location: 7589
+New Clue Read: 21512019508070
+Current Clue: 21512019508070
+Next Location: 1979
+New Clue Read: 44764490324401
+Current Clue: 44764490324401
+Next Location: 6016
+New Clue Read: 7391541537439
+Current Clue: 7391541537439
+Next Location: 4914
+New Clue Read: 29242548090599
+Current Clue: 29242548090599
+Next Location: 5226
+New Clue Read: 23416138669175
+Current Clue: 23416138669175
+Next Location: 6618
+New Clue Read: 41631830364277
+Current Clue: 41631830364277
+Next Location: 1404
+New Clue Read: 150061634692320
+Current Clue: 150061634692320
+Next Location: 1313
+New Clue Read: 79388566456325
+Current Clue: 79388566456325
+Next Location: 6380
+New Clue Read: 86608024144176
+Current Clue: 86608024144176
+Next Location: 4049
+New Clue Read: 96238429791169
+Current Clue: 96238429791169
+Next Location: 4208
+New Clue Read: 123008102323497
+Current Clue: 123008102323497
+Next Location: 648
+New Clue Read: 166595848659011
+Current Clue: 166595848659011
+Next Location: 3150
+New Clue Read: 183511360264946
+Current Clue: 183511360264946
+Next Location: 4719
+New Clue Read: 226141787069486
+Current Clue: 226141787069486
+Next Location: 3187
+New Clue Read: 103669876030908
+Current Clue: 103669876030908
+Next Location: 5509
+New Clue Read: 16145547737032
+Current Clue: 16145547737032
+Next Location: 7609
+New Clue Read: 145684055830150
+Current Clue: 145684055830150
+Next Location: -1
+Treasure found! Clue: 7609
+Current Clue: 0
+Next Location: 3
+New Clue Read: 90881643354659
+Current Clue: 90881643354659
+Next Location: -1
+Treasure found! Clue: 3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
