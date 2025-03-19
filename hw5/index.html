@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>My amazing website</title>
+    <title>My gidon website</title>
     <link rel="stylesheet" href="./css.css">
     <script src="./logic.js" defer></script>
   </head>
   <body>
     <h1>Q1</h1>
-      <div id="q1">
+    <div id="q1">
       <h1>The awesome website</h1>
       <div>
         <h2>Interesting stuff</h2>
@@ -31,11 +31,11 @@
     <h1>Q2</h1>
     <div id="q2">
       <p>
-        <span style="color:rgba(255, 0, 0, 1);">in this paragraph I will explain why I love Horseback riding</span><br>
-        <img src="Horseback riding.jpg" height="300" width="300" alt="me and my friend on horses in Colombia"/><br>
+        <span style="color:rgba(255, 0, 0, 1);">in this paragraph I will explain why I love Horseback riding</span><br><br>
+        <img src="Horseback riding.jpg" height="300" width="300" style="border-radius:50px; border:8px solid black" alt="me and my friend on horses in Colombia" title="me and me friend Roi in Colombia"><br>
         <a href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A1_%D7%94%D7%A7%D7%95%D7%95%D7%98%D7%A8" target="_blank">link to Quarter Horses</a><br>
         <strong>Horses taught me what love for animals is.</strong><br>
-        <em>Horses taught me that even being crooked is okay, and there will always be someone who accepts me.</em><br>
+        <em>Horses taught me that to be not perfect is okay, and there will always be someone who accepts me.</em><br>
       </p>
     </div>
     <hr>
@@ -95,12 +95,16 @@
       <form>
         <label for="username">User name:</label>
         <input type="text" id="username" required><br><br>
+        
         <label for="password">Password:</label>
         <input type="password" id="password" required><br><br>
+
         <label for="email">e-mail:</label>
         <input type="email" id="email" required><br><br>
+
         <label for="age">Age:</label>
         <input type="number" id="age" required><br><br>
+
         <label>City:</label>
         <label for="city1">Tel Aviv</label>
         <input type="checkbox" name="cities" id="city1" value="Tel Aviv">
@@ -109,10 +113,13 @@
         <label for="city3">Yoqneam</label>
         <input type="checkbox" name="cities" id="city3" value="Yoqneam">
         <br><br>
+        
         <label for="satisfaction">satisfaction Level (1 To 5):</label>
         <input type="range" id="satisfaction" name="satisfaction" min="1" max="5" value="3"><br><br>
+
         <label for="fav_color">Favorite Color:</label>
         <input type="color" id="fav_color" name="fav_color" value="#ADD8E6"><br><br>
+
         <input type="button" id="submit" value="Submit" onclick="validForm()">
       </form>
       

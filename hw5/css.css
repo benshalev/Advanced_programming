@@ -25,3 +25,31 @@ table, th, td{
     border-collapse: collapse;
     text-align: center;
 }
+
+#lime_paragraph > .lime_paragraph > p {
+    color:#00ff00
+}
+
+#blue_background p[blue]{
+    background-color: #0000ff;
+}
+
+.redcontent > p:first-child{
+    color:#ff0000;
+}
+
+p[class=text_after]::after{
+    content: 'Added this text';
+}
+
+.div-grid{
+    display: grid; /*define as grid*/
+    grid-template-columns: 25% 50% 25%; /*define relative columns*/
+    border: 1px solid black; /*define border that around all the grid to be 1px black*/
+    padding: 1px;/*define space between the border and the grid to be 1px*/
+}
+
+.div-grid > div{/*define each cell in the grid*/
+    border: 1px solid black;/*define border around each cell of 1px*/
+    margin: 1px;/*define margin space between each cell*/
+}
